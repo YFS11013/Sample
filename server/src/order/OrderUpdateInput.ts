@@ -1,0 +1,2 @@
+class OrderUpdateInput {}
+export { OrderUpdateInput };

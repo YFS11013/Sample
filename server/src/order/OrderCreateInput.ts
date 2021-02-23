@@ -1,0 +1,2 @@
+class OrderCreateInput {}
+export { OrderCreateInput };
